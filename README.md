@@ -1,40 +1,80 @@
-## Hi there 👋
 
-<h1 align="center">Hi, I'm <strong>Makhado Phinulo you can call me Rawzed</strong></h1>
+## 👋 Hi there  
+
+<h1 align="center">Hi, I'm <strong>Phindulo Makhado</strong> — you can call me <strong>RawZed</strong></h1>
 
 <p align="center">
-  <img src="[Your-portrait-or-avatar-url]" alt="Makhado" width="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Makhado" width="120" style="border-radius:50%;" />
 </p>
 
 <p align="center">
-  <strong>[Junior | Aspiring | Entry-level] Software Engineer</strong> • ALX <em>[specify program]</em> • Tech-enabled problem solver
+  <strong>💻 Aspiring Software Engineer | Front-End & Cybersecurity Learner @ ALX | Tech-Enabled Problem Solver</strong>
 </p>
 
 <p align="center">
-  <a href="[Portfolio-or-GitHub-Pages-URL]">Portfolio</a> •
-  <a href="www.linkedin.com/in/phindulo-makhado">LinkedIn</a> •
-  <a href="https://www.facebook.com/phindulo.makhado.90">@Phindulo Rosset Makhado</a> •
-  <a href="mailto:makhado.phindulo@outlook.com">Email</a>
+  <a href="https://github.com/Rosset18">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/phindulo-makhado">LinkedIn</a> •
+  <a href="https://www.facebook.com/phindulo.makhado.90">Facebook</a> •
+  <a href="mailto:Makhado1412@gmail.com">Email</a>
 </p>
 
 ---
 
-## About me
-I am a learner of the ALX <strong>Front-End and Cybersecurity </strong>. I began software engineering because <em>[brief motivation: e.g., I enjoy solving problems, building products that help people]</em>. I am passionate about <em>[areas: e.g., backend systems, APIs, web development]</em>, and I am working toward my vision: <strong>[your short vision statement]</strong>.
+## 🚀 About Me  
 
-**Current focus:** [e.g., Django, Node.js, REST APIs, Docker]  
-**Looking for:** junior dev roles, internships, freelance gigs  
-**Location / Work preference:** [e.g., South Africa / Remote]  
+I’m a dedicated learner currently pursuing **Front-End Development and Cybersecurity** through the **ALX program**.  
+I began my software engineering journey because I enjoy **solving real-world problems through code** and building **digital tools that make people’s lives easier**.  
+
+I’m passionate about **backend systems, APIs, and web development**, and I’m working toward my vision of becoming a **skilled software engineer who designs secure, efficient, and user-friendly solutions**.
+
+- 🌱 **Current focus:** Django, REST APIs, Node.js, Cybersecurity fundamentals  
+- 💼 **Looking for:** Junior dev roles, internships, freelance projects  
+- 📍 **Location:** Bloemfontein, South Africa (Open to remote opportunities)  
+- ⚡ **Fun fact:** I’m both a tech enthusiast and a creative problem solver — I love learning how things work under the hood!
 
 ---
 
-## What I’m building (Pinned Projects)
-Here are 3–5 projects that show my best work. Each repository includes a clear README, demo link (if available), and instructions to run.
+## 🧠 Skills  
+
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks & Tools:** Django, React (beginner), REST APIs, Git, GitHub, MongoDB  
+**Other Interests:** Network security, penetration testing, ethical hacking basics  
+
+---
+
+## 📂 Featured Projects  
 
 <details>
-<summary><strong>https://github.com/Rosset18/MeetBloemfontein — MeetBloem</strong></summary>
-  
-**What it does:**  
-[A dating app for the Free State province of South Africa. Users can swipe, match, and chat with people in their province. The app supports Free and VIP subscriptions, real-time notifications, and secure payments via Stripe and PayPal.]
+<summary><strong>🩵 MeetBloem — A Dating App for the Free State</strong></summary>
 
-**Tech:** [Python, Django, MongoDB, Java, HTML and CSS/Django REST Frameworks]
+**Repo:** [MeetBloemfontein](https://github.com/Rosset18/MeetBloemfontein)
+
+**Description:**  
+A location-based dating app built for users in the Free State province of South Africa.  
+Users can swipe, match, and chat in real-time. The app supports both Free and VIP subscriptions, integrates secure payment gateways, and provides an interactive user experience.
+
+**Tech Stack:**  
+`Python` • `Django` • `MongoDB` • `Django REST Framework` • `HTML` • `CSS` • `Java`
+
+</details>
+
+---
+
+## 🎯 Goals  
+
+- Build and deploy more full-stack projects  
+- Contribute to open-source communities  
+- Strengthen cybersecurity and network defense skills  
+- Secure a software engineering internship or junior role  
+
+---
+
+I’d love to collaborate or learn from other developers!  
+Reach out to me via:  
+📧 **Email:** [Makhado1412@gmail.com](mailto:Makhado1412@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/phindulo-makhado](https://www.linkedin.com/in/phindulo-makhado)  
+🌍 **GitHub:** [github.com/Rosset18](https://github.com/Rosset18)  
+
+---
+
+⭐ **“Code with purpose. Learn endlessly. Build what matters.”**  
